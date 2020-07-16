@@ -41,6 +41,8 @@
 
 ![Image text](https://raw.githubusercontent.com/xyfll7/resume/master/image/gh_a1d8ca817441_258%20(1).jpg)
 
+ [分案系统精彩之处](https://github.com/xyfll7/resume/blob/master/fenan/fenan.md)
+
 注⚠️：登陆后只能看到普通用户看到的部分，需要一些授权才能看到高级功能。
 
 三、
