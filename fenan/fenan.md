@@ -78,7 +78,6 @@
 
 ![Image text](https://646e-dnmyebg-y26wn-1301477284.tcb.qcloud.la/instructions/%E5%9B%BE7.jpeg?sign=a66b8c1cde021b7cdf3e7afbb45bb214&t=1594913651)
 
-
 由此在数量上，案件分配的结果是趋于均衡的。过程上又是随机为主、指定为辅的案件分配机制。
 
 ### 四、虚拟分案轮次
