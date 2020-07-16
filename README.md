@@ -38,7 +38,7 @@
 
 网上认识一位法院的编程爱好者，一起聊着帮他实现一款法院分案系统（历时一年）
 
-写这款软件对我成长帮助最大，最早用vue写，基本框架已经基本写完:[“分案系统vue”](https://github.com/xyfll7/fenansys)  ，后弃用vue转用小程序写，因为小程序的云开发好用。
+写这款软件对我成长帮助最大，最早用vue写，基本框架已经基本写完:[“分案系统vue”](https://github.com/xyfll7/fenansys)  ，后弃用vue转用小程序写，因为小程序的云开发好用：
 
 ![Image text](https://raw.githubusercontent.com/xyfll7/resume/master/image/gh_a1d8ca817441_258%20(1).jpg)
 
@@ -48,7 +48,7 @@
 
 由于在学习期间寄住在洛川、延安两地亲戚开的课后小学(洛川)初中(延安)辅导班哪里
 
-招生期间会帮忙做些招生工作，萌生了写一款帮助家长找老师，帮助老师招生的小程序的想法，于今年初断断续续开始写这款小程序。
+招生期间会帮忙做些招生工作，萌生了写一款帮助家长找老师，帮助老师招生的小程序的想法，于今年初断断续续开始写这款小程序：
 
 ![Image text](https://raw.githubusercontent.com/xyfll7/resume/master/image/WechatIMG67.jpeg)
 
