@@ -24,11 +24,29 @@
 ### 自学编程（2018年8月-至今）
 
 #### 自学编程
+
 学习js一年，不知到用js做什么，市面上翻译软件用的都不顺手，就转战C#，自己仿照Mac版的
-[“快译”](https://itunes.apple.com/cn/app/%E5%BF%AB%E8%AF%91-%E5%A4%9A%E8%AF%AD%E8%A8%80%E6%99%BA%E8%83%BD%E5%AD%97%E5%85%B8/id1217010477?mt=12)做了一款win版的翻译软件：[“CV翻译”](https://github.com/xyfll7/CV-translation)
+[“快译”](https://itunes.apple.com/cn/app/%E5%BF%AB%E8%AF%91-%E5%A4%9A%E8%AF%AD%E8%A8%80%E6%99%BA%E8%83%BD%E5%AD%97%E5%85%B8/id1217010477?mt=12)
+
+一、
+
+做了一款win版：[“CV翻译”](https://github.com/xyfll7/CV-translation)
+
+后来又做了Mac版：[“CV翻译”](https://github.com/xyfll7/CVtranslate)
+
+二、
 
 网上认识一个法院的编程爱好者，一起聊着帮他实现一款法院分案系统（历时一年）：
 
+![Image text](https://raw.githubusercontent.com/xyfll7/resume/master/image/gh_a1d8ca817441_258%20(1).jpg)
 
+三、
+
+由于在学习期间住在洛川、延安两地亲戚开的课后小学(洛川)初中(延安)辅导班哪里
+
+招生期间会帮忙做些招生工作，萌生了写一款帮助家长找老师，帮助老师招生的小程序的想法，于今年初断断续续开始写这款小程序。
+
+
+### 自我评价
 
 
