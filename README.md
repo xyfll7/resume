@@ -30,9 +30,9 @@
 学习js一年，不知到用js做什么，市面上翻译软件用的都不顺手，就转战C#，自己仿照Mac版的
 [“快译”](https://itunes.apple.com/cn/app/%E5%BF%AB%E8%AF%91-%E5%A4%9A%E8%AF%AD%E8%A8%80%E6%99%BA%E8%83%BD%E5%AD%97%E5%85%B8/id1217010477?mt=12)
 
-做了一款win版：[“CV翻译”](https://github.com/xyfll7/CV-translation) win环境复杂有些客户机表现不稳定
+做了一款win版：[“CV翻译”](https://github.com/xyfll7/CV-translation) （win环境复杂有些客户机表现不稳定）
 
-又做了Mac版：[“CV翻译”](https://github.com/xyfll7/CVtranslate) 运行稳定，一次写好，从无bug
+又做了Mac版：[“CV翻译”](https://github.com/xyfll7/CVtranslate) （运行稳定，一次写好，从无bug）
 
 二、
 
