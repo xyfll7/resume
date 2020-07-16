@@ -56,13 +56,13 @@
 
 Js： 小程序、vue、koa、mongodb（熟悉）
 
-Swift (略懂）
+Swift (入门）
 
-C# (略懂）
+C# (入门）
 
-Go (略懂）
+Go (入门）
 
-Linux (略懂）
+Linux (入门）
 
 ### 自我评价与期望
 
