@@ -50,7 +50,7 @@
 
 招生期间会帮忙做些招生工作，萌生了写一款帮助家长找老师，帮助老师招生的小程序的想法，于今年初断断续续开始写这款小程序。
 
-
+![Image text](https://raw.githubusercontent.com/xyfll7/resume/master/image/WechatIMG67.jpeg)
 
 ### 技能描述
 
